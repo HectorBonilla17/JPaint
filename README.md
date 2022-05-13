@@ -1,9 +1,11 @@
 # JPaint
-Java-Based Maven project that uses 
+Java-Based Maven project that uses various pattern in order to make a MsPaint-like cavnas, with the ability to create varying shapes with color & border. The project also implements a undo & redo functions for the all shapes create in sequence, in addition it has a copy and paste functions for the varying shapes based on the highlighted as the given moment when copy was pressed. 
 
-Patterns Implemented in Project: 
--Command, CommandFactory, Strategy and Decorator pattern 
+-------------------------------------------------
 
+Patterns Implemented in Project: Command, CommandFactory, Strategy and Decorator pattern 
+
+-------------------------------------------------
 
 Pattern Implementation:  
 
